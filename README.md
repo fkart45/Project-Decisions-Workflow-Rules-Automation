@@ -1,6 +1,6 @@
-# Decisions Automation Projects
+# Decisions Automation/No-Code Projects
 
-Welcome to the **Decisions Automation Projects** repository! This repository contains various projects I have built using [Decisions](https://decisions.com/), a no-code automation and workflow platform. Each project demonstrates how to use Decisions to automate complex processes, manage rules, and create workflows without the need for traditional programming.
+Welcome to the **Decisions Automation/No-Code Projects** repository! This repository contains various projects I have built using [Decisions](https://decisions.com/), a no-code automation and workflow platform. Each project demonstrates how to use Decisions to automate complex processes, manage rules, and create workflows without the need for traditional programming.
 
 ## 📚 Overview
 
@@ -22,6 +22,9 @@ This repository includes Zip files of projects containing:
 
 1. **[Project 1 - Party Planning Approval Workflow](/project1-folder)**
    - Description: A workflow that automates the approval process, including notifications and escalations based on predefined rules for Party Planning Request Process.
+  
+2. **[Project 2 - Rules - Create Excel - QR Code Workflow](/project1-folder)**
+   - Description: A workflow that injests Excel file, Run Rules, Generate another excel file. Another workflow, populating a word template, creating pdf file and adding QR Code to it.
    
 
 
