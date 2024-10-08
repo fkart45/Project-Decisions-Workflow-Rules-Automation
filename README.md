@@ -25,6 +25,9 @@ This repository includes Zip files of projects containing:
   
 2. **[Project 2 - Rules - Create Excel - QR Code Workflow](/project1-folder)**
    - Description: A workflow that injests Excel file, Run Rules, Generate another excel file. Another workflow, populating a word template, creating pdf file and adding QR Code to it.
+  
+2. **[Project 3 - CRUD-Create_Text-Dashboards-Project](/project1-folder)**
+   - Description: A workflow that injests Excel file, Run Rules, Generate another excel file. Another workflow, populating a word template, creating pdf file and adding QR Code to it.
    
 
 
