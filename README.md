@@ -26,8 +26,11 @@ This repository includes Zip files of projects containing:
 2. **[Project 2 - Rules - Create Excel - QR Code Workflow -v9](/project1-folder)**
    - Description: A workflow that injests Excel file, Run Rules, Generate another excel file. Another workflow, populating a word template, creating pdf file and adding QR Code to it.
   
-2. **[Project 3 - CRUD-Create_Text-Dashboards-SFTP Workflow -v9](/project1-folder)**
+3. **[Project 3 - CRUD-Create_Text-Dashboards-SFTP Workflow -v9](/project1-folder)**
    - Description: A workflow that sets up Databases and enables CRUD Actions, Create 1:n Relationships within DB. Another workflow reads multiple Files from SFTP Server, Extract Data and compare with DB table Data and create new text file and pushes it back to SFTP server.
+  
+4. **[Project 3 - AWS-S3-Lambda-APIGateway Workflow -v9](/project1-folder)**
+   - Description: Setting up Amazon S3 bucket to receive files from Decisions Workflow. In S3, a folder is created for every call from workflow and all related documents are stored in the folder.
    
 
 
